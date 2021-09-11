@@ -12,4 +12,4 @@
 - https://github.com/giahuy2201 (lead)
 - https://github.com/eyeshield2110
 ### Deployed here (As of 09/2021: tables unavailable):
-https://eyeshield2110.github.io/resto/
+
